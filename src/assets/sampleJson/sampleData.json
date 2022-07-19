@@ -1,0 +1,34 @@
+{
+    "orderDetails" : [{
+    "orderId": 1, 
+    "deliveryDate": "20/07/2022", 
+    "customerName":"Saiteja",
+    "customerAddress":"Siddipet", 
+    "customerPhone": 9032784326, 
+    "totalAmount": 3600.88
+   },
+   {
+    "orderId": 2, 
+    "deliveryDate": "18/07/2022", 
+    "customerName":"Sharath",
+    "customerAddress":"Gajwel", 
+    "customerPhone": 9666999111, 
+    "totalAmount": 2571.88
+   },
+   {
+    "orderId": 3, 
+    "deliveryDate": "28/07/2022", 
+    "customerName":"Narendar",
+    "customerAddress":"Siddipet", 
+    "customerPhone": 7896541258, 
+    "totalAmount": 13600.88
+   },
+   {
+    "orderId": 4, 
+    "deliveryDate": "21/07/2022", 
+    "customerName":"Maneesh",
+    "customerAddress":"Hyderabad", 
+    "customerPhone": 8521479630, 
+    "totalAmount": 36880.88
+   }]
+}

@@ -1,0 +1,36 @@
+ngb-modal-backdrop{
+    z-index: 0 !important;
+}
+.fa{
+    cursor: pointer;
+}
+.tr,.td,.th{
+    cursor: default;
+}
+@media only screen and (min-width: 1025px) {
+    .card{
+        width: 475px;
+        display: block;
+        margin-left: 250px !important;
+    }
+}
+@media only screen and (min-width: 993px) and (max-width:1024px) {
+    .card{
+        width: 475px;
+        display: block;
+       margin-left: 175px !important;
+    }
+}
+@media only screen and (min-width:481 )and( max-width: 992px) {
+    .card{
+        width: 430px;
+        margin-left: 122px !important;
+        display: block;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .card{
+        width: 388px;
+        display: block;
+    }
+}

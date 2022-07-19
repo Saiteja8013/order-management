@@ -1,0 +1,25 @@
+.imageBg{
+    background-image: url('/assets/images/l.jpg');  
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px !important;
+    background-position: center;
+ }
+ .container{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+ }
+ .login{
+     font-size: 30px;
+     font-weight: 100;
+ }
+ 
+ .icon{
+    text-align: center;
+ }
+ .error{
+    color: red;
+ }
+ 
